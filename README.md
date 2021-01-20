@@ -69,6 +69,10 @@ $account->check('user_id');
 
 删除 `composer.lock` 和 `vendor` 重新安装即可
 
+## 不晓得 为啥报错 `autoload : invalid value (extra)`
+
+我觉得得解决后才能安装
+
 # todo
 - [ ] 优化 `cache` `log` 部分
 - [ ] 让其更人性化一点
