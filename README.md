@@ -1,7 +1,7 @@
 # 安装
 
 ```bash
-composer install puzzle9/laravel-tencent-cloud-sdk-im -vvv
+composer require puzzle9/laravel-tencent-cloud-sdk-im -vvv
 ```
 
 ## laravel
