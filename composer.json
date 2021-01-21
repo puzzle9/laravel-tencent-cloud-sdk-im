@@ -18,5 +18,15 @@
     "psr-4": {
       "Puzzle9\\TencentCloudSdkIm\\": "src"
     }
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Puzzle9\\TencentCloudSdkIm\\ServiceProvider"
+      ],
+      "aliases": {
+        "TencentCloudSdkIm": "Puzzle9\\TencentCloudSdkIm\\TencentCloudSdkIm"
+      }
+    }
   }
 }
