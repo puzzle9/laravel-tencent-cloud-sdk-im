@@ -59,7 +59,7 @@ $account->check('user_id');
     "prefer-stable": false,
     "repositories": [
         {
-            "type": "git",
+            "type": "vcs",
             "url": "https://github.com/puzzle9/qcloud-im-sdk-php",
             "canonical": false
         }
